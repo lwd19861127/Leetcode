@@ -1,5 +1,5 @@
 # Leetcode
-Remove Duplicates from Sorted Array(26).{python3}
+Remove Duplicates from Sorted Array(26).{python3}\n
 Best Time to Buy and Sell Stock II(122).{python3}
 Rotate Array(189).{python3}
 Contains Duplicate(217).{python3}
